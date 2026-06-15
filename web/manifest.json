@@ -1,11 +1,11 @@
 {
-    "name": "sitzplan",
-    "short_name": "sitzplan",
+    "name": "Sitzplan",
+    "short_name": "Sitzplan",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#3E5C76",
+    "theme_color": "#3E5C76",
+    "description": "Sitzpläne für den Unterricht erstellen – lokal und ohne Konto.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
